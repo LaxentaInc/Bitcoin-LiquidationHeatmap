@@ -1,3 +1,12 @@
+### Liquidation Heatmaps for BTCUSDT, derived from MultiExchange engines, to cover around 94%+ Liquidity.
+!! Liquidity heatmaps are predictive in nature, it decides the direction, not how long the liquidations will last, and is not accurate to the exact prices.
+So this will give you uhhh:
+- handling of raw network payloads from 8 derivatives exchanges to aggregate a raw, unfiltered global liquidity In **TRILLIONS**.
+- Spatial Binning Maps forced leverage cascades and resting order depth into high-resolution price bins, identifying macro shelves and squeeze targets down to r= 0.0400 ish.
+- Coinglass or Kraken etc. HEAVILY Charge like **600-999** dollars for liquidations, Like i am not kidding, you could go see yourself! They do not provide liquidation heat maps in any plan below 699$ (this is not against any company nor i am discouraging to use them, i am just stating facts)
+
+- <img width="1532" height="849" alt="image" src="https://github.com/user-attachments/assets/359be75f-ca94-4fb3-8c38-94b7fb1675c6" />
+
 <img width="1186" height="1040" alt="image" src="https://github.com/user-attachments/assets/e524e4fc-4997-46bf-b2ee-af79dfcd7f4f" />
 
 Sounds like a lie? ehhh nah it is not, made it for my own project, cz who knows when they fix thier api?
