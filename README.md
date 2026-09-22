@@ -1,4 +1,5 @@
 ### Liquidation Heatmaps for BTCUSDT, derived from MultiExchange engines, to cover around 94%+ Liquidity.
+one could js ask for the binary if they see this early,  else i will upload it soon enough anyways
 !! Liquidity heatmaps are predictive in nature, it decides the direction, not how long the liquidations will last, and is not accurate to the exact prices.
 So this will give you uhhh:
 - handling of raw network payloads from 8 derivatives exchanges to aggregate a raw, unfiltered global liquidity In **TRILLIONS**.
